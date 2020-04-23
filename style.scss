@@ -1,0 +1,10 @@
+$value:green;
+#main{
+    color: $value;
+    a{
+        color: yellow;
+        &:hover{
+            color:magenta;
+        }
+    }
+}

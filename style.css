@@ -1,0 +1,8 @@
+#main {
+  color: green; }
+  #main a {
+    color: yellow; }
+    #main a:hover {
+      color: magenta; }
+
+/*# sourceMappingURL=style.css.map */
